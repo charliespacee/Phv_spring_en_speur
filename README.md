@@ -1,50 +1,5 @@
 
 }
-
-h2 {
-    color:#66bb6a;
-}
-
-ul {
-    list-style: square;
-    padding-left: 20px;
-}
-
-.homebtn {
-    display:inline-block;
-    margin-top:20px;
-    padding:10px 18px;
-    background:#2e7d32;
-    color:white;
-    text-decoration:none;
-    border-radius:6px;
-    font-weight:bold;
-}
-
-.homebtn:hover {
-    background:#1b5e20;
-}
-
-footer {
-    text-align:center;
-    padding:20px;
-    background:#1b5e20;
-    color:white;
-    margin-top:30px;
-}
-
-.fotoboek {
-    display:flex;
-    flex-wrap:wrap;
-    gap:10px;
-    justify-content:center;
-}
-
-.fotoboek img {
-    max-width:300px;
-    border-radius:8px;
-    border: 2px solid #2e7d32;
-}
 </style>
 </head>
 <body id="top">
